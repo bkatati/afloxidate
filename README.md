@@ -39,8 +39,8 @@ MKZ06A:-------YES-Atoxigenic-----&------Maize-Toxigenic*
 
 MLV14E:-------YES-Atoxigenic-----&------Maize-Toxigenic*
 
-EKA04V:-------YES-Toxigenic------&------Maize-Atoxigenic
+EKA04V:-------YES-Toxigenic------&------Maize-Toxigenic
 
-MKZ09:--------YES-Toxigenic------&------Maize-Atoxigenic
+MKZ09:--------YES-Toxigenic------&------Maize-Toxigenic
 
 *change in toxigenicity between Yeast Extract Sucrose and Maize media.
